@@ -36,21 +36,23 @@ Defered Equity Plan contract options:
     * ![Contract options](Screenshots/DeferedEquityPlan3.png)
 
 Using Fast Forward function to increase 200 days for testing purpose: 
-    * [Fast Forward 200 days](Screenshots/DeferedEquityPlan4-Fastforward200days.png)
+    * ![Fast Forward 200 days](Screenshots/DeferedEquityPlan4-Fastforward200days.png)
 
 Using Fast Forward function to increase another 200 days for testing purpose: 
-    * [Fast Forward 400 days](Screenshots/DeferedEquityPlan4-Fastforward400days.png)
+    * ![Fast Forward 400 days](Screenshots/DeferedEquityPlan4-Fastforward400days.png)
     
 Distribute share at 400 days: 
-    * [Distribute share at 400 days](Screenshots/DeferedEquityPlan4-Distribute400days.png)
+    * ![Distribute share at 400 days](Screenshots/DeferedEquityPlan4-Distribute400days.png)
 
 Distribute share Result at 400 days: 
-    * [Distribute Result at 400 days](Screenshots/DeferedEquityPlan4-Distribute400days2.png)
+    * ![Distribute Result at 400 days](Screenshots/DeferedEquityPlan4-Distribute400days2.png)
     
 Attempt to Distribute share at 600 days (less than 2 years) - FAILED due to not enough time: 
-    * [Distribute share at 400 days](Screenshots/DeferedEquityPlan4-TryDistributeAt600days.png)
+    * ![Distribute share at 400 days](Screenshots/DeferedEquityPlan4-TryDistributeAt600days.png)
 
 Distribute share Result at 1600 days (more than 4 years): 
-    * [Distribute Result at 400 days](Screenshots/DeferedEquityPlan4-Distribute1600days.png)
+    * ![Distribute Result at 400 days](Screenshots/DeferedEquityPlan4-Distribute1600days.png)
+
+
 
 
